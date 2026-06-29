@@ -1,0 +1,1 @@
+DELETE FROM public.enquiries WHERE message LIKE 'FINAL-CHECK%' OR message = 'hello from eval test';
