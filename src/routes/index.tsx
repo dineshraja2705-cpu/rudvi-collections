@@ -571,6 +571,26 @@ function Home() {
         </div>
       </section>
 
+      {/* More collections */}
+      <section className="relative z-10 px-6 py-20">
+        <Reveal className="mx-auto max-w-5xl">
+          <div className="rounded-lg border border-primary/20 bg-card/70 px-6 py-12 text-center shadow-luxe backdrop-blur sm:px-12 sm:py-14">
+            <p className="mx-auto max-w-2xl font-display text-3xl leading-tight sm:text-4xl">
+              Looking for more collections? 💖 Contact us on WhatsApp to explore our latest designs
+              and exclusive collections!
+            </p>
+            <a
+              href="https://wa.me/919047813230"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-8 inline-flex items-center justify-center rounded-md bg-[#25D366] px-7 py-3.5 text-xs font-medium uppercase tracking-wide-2 text-[#071b10] shadow-card transition-all duration-300 hover:-translate-y-1 hover:bg-[#32e678] hover:shadow-luxe"
+            >
+              Contact on WhatsApp
+            </a>
+          </div>
+        </Reveal>
+      </section>
+
       <footer className="relative z-10 border-t border-border/50 py-10 text-center">
         <p className="font-display text-2xl text-gradient-gold">Rudvi Collection</p>
         <p className="mt-2 text-xs uppercase tracking-wide-2 text-muted-foreground">
