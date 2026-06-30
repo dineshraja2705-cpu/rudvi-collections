@@ -580,7 +580,7 @@ function Home() {
               and exclusive collections!
             </p>
             <a
-              href="https://wa.me/919047813230"
+              href="https://wa.me/919047813230?text=Hi%20Rudvi%20Collection%21%20Please%20show%20your%20latest%20collections."
               target="_blank"
               rel="noreferrer"
               className="mt-8 inline-flex items-center justify-center rounded-md bg-[#25D366] px-7 py-3.5 text-xs font-medium uppercase tracking-wide-2 text-[#071b10] shadow-card transition-all duration-300 hover:-translate-y-1 hover:bg-[#32e678] hover:shadow-luxe"
